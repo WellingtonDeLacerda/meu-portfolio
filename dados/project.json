@@ -1,0 +1,34 @@
+[
+    {
+        "href" : "https://wellingtondelacerda.github.io/frontend-mentor/d019/intro-component-with-signup-form-master/",
+        "src" : "images/intro-component.jpg",
+        "ano" : 2026,
+        "name" : "intro-component",
+        "p" : "Formulário responsivo com validação de campos e foco na experiência do usuário.",
+        "detail" : "Projeto de formulário com validação em JavaScript, exibindo mensagens de erro em tempo real. Layout moderno e totalmente responsivo, adaptado para diferentes tamanhos de tela."
+    },
+    {
+        "href" : "https://wellingtondelacerda.github.io/frontend-mentor/d018/base-apparel-coming-soon-master/",
+        "src" : "images/base-apparel.jpg",
+        "ano" : 2026,
+        "name" : "base-apparel",
+        "p" : "Landing page responsiva com design clean e foco em captura de e-mail.",
+        "detail" : "Página de apresentação com layout moderno e minimalista, incluindo formulário de e-mail e organização visual focada na experiência do usuário. Desenvolvido com HTML, CSS e boas práticas de responsividade."
+    },
+    {
+        "href" : "https://wellingtondelacerda.github.io/frontend-mentor/d016/faq-accordion/",
+        "src" : "images/faq-accordion.jpg",
+        "ano" : 2026,
+        "name" : "faq-accordion",
+        "p" : "Componente de perguntas frequentes interativo com interface limpa e transições suaves.",
+        "detail" : "Seção de FAQ desenvolvida com foco em acessibilidade e interatividade. O projeto apresenta um sistema de acordeão funcional onde o usuário pode expandir e recolher perguntas de forma intuitiva. Construído utilizando HTML semântico, CSS moderno (Flexbox/Grid) e JavaScript para manipulação de estados e animações, garantindo uma experiência fluida em qualquer dispositivo."
+    },
+    {
+        "href" : "https://wellingtondelacerda.github.io/frontend-mentor/d017/article-preview-component-master/",
+        "src" : "images/article-preview.jpg",
+        "ano" : 2026,
+        "name" : "article-preview",
+        "p" : "Componente interativo de pré-visualização de artigo com design moderno.",
+        "detail" : "Projeto com foco em interação do usuário, incluindo botão de compartilhamento com animação e exibição dinâmica de conteúdo. Layout responsivo e atenção aos detalhes visuais."
+    }    
+]

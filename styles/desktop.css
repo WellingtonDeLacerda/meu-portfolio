@@ -1,0 +1,37 @@
+main {
+    grid-template-columns: 2rem 20rem 2rem auto 2rem ;
+}
+.ficha {
+    grid-column: 2 / 3;
+    position: relative;
+}
+.ficha .perfil {
+    position: sticky;
+    top: 5rem;
+    width: 20rem;
+}
+.detalhe {
+    grid-column: 4 / 5;
+}
+.var_skills {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+.brain {
+    margin-top: 2rem;
+    width: 47%;
+}
+.sites {
+    display: grid;
+    grid-template-columns: auto 30%;
+    min-height: 10rem;
+}
+.sites .txt {
+    order: 0;
+}
+.sites .img {
+    order: 1;
+    height: 100%;
+}

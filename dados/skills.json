@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "HTML5",
+        "porcent" : 70,
+        "icone" : "fa-brands fa-html5"
+    },
+    {
+        "name" : "CSS3",
+        "porcent" : 60,
+        "icone" : "fa-brands fa-css3"
+    },
+    {
+        "name" : "Java-script",
+        "porcent" : 45,
+        "icone" : "fa-brands fa-js"
+    },
+    {
+        "name" : "Git-hub",
+        "porcent" : 55,
+        "icone" : "fa-brands fa-github"
+    },
+    {
+        "name" : "ingles",
+        "porcent" : 28,
+        "icone" : "fa-solid fa-language"
+    },
+    {
+        "name" : "Python",
+        "porcent" : 18,
+        "icone" : "fa-brands fa-python"
+    },
+    {
+        "name" : "mySQL",
+        "porcent" : 0,
+        "icone" : "fa-solid fa-database"
+    },
+    {
+        "name" : "desenhos",
+        "porcent" : 68,
+        "icone" : "fa-solid fa-palette"
+    },
+    {
+        "name" : "nodeJS",
+        "porcent" : 5,
+        "icone" : "fa-brands fa-node"
+    }
+]
