@@ -21,7 +21,7 @@
     },
     {
         "name" : "ingles",
-        "porcent" : 28,
+        "porcent" : 30,
         "icone" : "fa-solid fa-language"
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "name" : "nodeJS",
-        "porcent" : 5,
+        "porcent" : 14,
         "icone" : "fa-brands fa-node"
     }
 ]
